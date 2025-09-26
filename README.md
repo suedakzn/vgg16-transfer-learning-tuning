@@ -10,4 +10,12 @@ Amacım, transfer learning (VGG16), fine-tuning, hiperparametre optimizasyonu (K
 - Daha sonra **VGG16 transfer learning** kullanarak performansı artırdım.  
 - Son adımda **fine-tuning** ile VGG16’nın son bloklarını eğitime dahil ederek doğruluk oranını %90+ seviyelerine çıkardım.  
 - **Keras Tuner** ile hiperparametre optimizasyonu yaparak modelin en iyi ayarlarını otomatik olarak seçtim.  
-- **Eigen-CAM** ile modelin karar verirken odaklandığı bölgeleri görselleştirdim.  
+- **Eigen-CAM** ile modelin karar verirken odaklandığı bölgeleri görselleştirdim.
+
+## Kullanılan Teknolojiler
+- Python   
+- TensorFlow / Keras  
+- Keras Tuner  
+- Matplotlib & Seaborn  
+- OpenCV  
+- Scikit-learn 
