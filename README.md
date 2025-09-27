@@ -26,7 +26,7 @@ Amacım sıfırdan bir CNN kurmak, ardından **transfer learning (VGG16)** ve **
 ---
 
 ## Kullanılan Teknolojiler
-- Python 🐍  
+- Python 
 - TensorFlow / Keras  
 - Keras Tuner  
 - Scikit-learn  
