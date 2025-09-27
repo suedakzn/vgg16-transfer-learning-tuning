@@ -21,7 +21,7 @@ Amacım sıfırdan bir CNN kurmak, ardından **transfer learning (VGG16)** ve **
 3. **Değerlendirme**
    - Accuracy & Loss grafiklerini çizdim.  
    - Test setinde classification report ve confusion matrix ile sınıflar bazında performansı analiz ettim.  
-   - Grad-CAM ve Eigen-CAM ile modelin odaklandığı bölgeleri görselleştirdim.  
+   - Eigen-CAM ile modelin odaklandığı bölgeleri görselleştirdim.  
 
 ---
 
